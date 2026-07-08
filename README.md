@@ -20,7 +20,8 @@ Built an interactive Excel dashboard to analyze regional sales performance, targ
 - Form Controls
 
 ## Dashboard Preview
-(Add screenshots here)
+<img width="1917" height="1015" alt="Screenshot 2026-06-12 005332" src="https://github.com/user-attachments/assets/4f43c8fa-1965-45f4-af87-0bbfc27d553f" />
+
 
 ## Project Files
 - Sales_Dashboard.xlsm
